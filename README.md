@@ -13,7 +13,7 @@ El proyecto consiste en un programa Java que carga datos de estudiantes desde un
 
 ## Enlace al Vídeo de Profundización en Haskell
 
-Si deseas ver un vídeo de profundización en Haskell, puedes acceder a él a través del siguiente enlace: [Vídeo de Profundización en Haskell](enlace_del_video)
+Si deseas ver un vídeo de profundización en Haskell, puedes acceder a él a través del siguiente enlace: [Vídeo de Profundización en Haskell](https://youtu.be/g-bHo7OhIu0)
 
 ## Sustentación
 
